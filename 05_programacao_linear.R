@@ -2,7 +2,7 @@
 # Fonte:  https://rpubs.com/hudsonchavs/linearprogramming#:~:text=Um%20problema%20geral%20de%20Programa%C3%A7%C3%A3o,inequa%C3%A7%C3%B5es)%20lineares%2C%20chamadas%20restri%C3%A7%C3%B5es.
 
 # Token: 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
-
+#teste
 
 # 0. Pacotes --------
 library(lpSolve)
